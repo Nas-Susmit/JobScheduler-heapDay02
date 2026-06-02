@@ -264,22 +264,6 @@ Benefits:
 * Survives restarts
 * Horizontally scalable
 
----
-
-## 📸 Screenshots
-
-### Dashboard
-
-Add Streamlit dashboard screenshots here.
-
-```text
-[Heap Visualization]
-[Job Queue]
-[Activity Log]
-```
-
----
-
 ## 🐛 Current Limitations
 
 * In-memory storage only
